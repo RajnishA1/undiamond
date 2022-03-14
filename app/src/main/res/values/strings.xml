@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UnDiamond</string>
+    <string name="recomanded">Recomanded</string>
+    <string name="incrubuled">Incrubuled</string>
+    <string name="resupplymap">Resupplymap</string>
+    <string name="summonairdrop">Summonairdrop</string>
+    <string name="scam">Scam</string>
+    <string name="voutcher">voutcher</string>
+    <string name="get_unlimited">Get Unlimited</string>
+    <string name="diamond">Diamond</string>
+    <string name="todo">TODO</string>
+    <string name="free">10x</string>
+    <string name="combo">Combo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="Cratecombo" />
+    <string name="diafire" />
+    <string name="summdrop">summdrop</string>
+    <string name="cratecombo">Cratecombo</string>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+</resources>
+

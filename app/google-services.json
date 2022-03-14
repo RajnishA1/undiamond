@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757720498224",
+    "project_id": "undiamondfreefire",
+    "storage_bucket": "undiamondfreefire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757720498224:android:fa01d852f051e5401c6df5",
+        "android_client_info": {
+          "package_name": "com.example.undiamond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757720498224-40ov0stajqpm8kkvj5djmenlj18luph9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.undiamond",
+            "certificate_hash": "4130ac40d16483b456f359308430b3d3e652ab9c"
+          }
+        },
+        {
+          "client_id": "757720498224-gnt5vacqdd8g0k5qqrmkh8mprss8dla6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ogMyCxq6L3aPoxkCRg4rlBbQ55XNmC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757720498224-gnt5vacqdd8g0k5qqrmkh8mprss8dla6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
